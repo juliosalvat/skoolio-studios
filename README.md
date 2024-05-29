@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
+  <a href="https://www.skooliostyles.com">
     <img alt="Skoolio Studios" src="https://lh3.googleusercontent.com/drive-viewer/AKGpihb8aFVxZxHMSwecBJSCnWCmlKaHZB5BQ0iMXcuWOpC-mKX49SriJ1G5m6Csje2m-aY8r3D71St-gwgFPpmjHk9v-ZGsdLZ3dRA=s2560" width="60" />
   </a>
 </p>
