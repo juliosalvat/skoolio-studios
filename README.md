@@ -4,12 +4,12 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Minimal Starter
+  Gatsby Skoolio Studios Template
 </h1>
 
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
+1.  **Create a Skoolio Styles Gatsby site.**
 
     Use the Gatsby CLI to create a new site, specifying the minimal starter.
 
