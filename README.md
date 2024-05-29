@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Skoolio Studios" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg](https://drive.google.com/file/d/1l7G32Q6Bh9rReZ7y-Fy-afw1ZwsJ95wu/view?usp=sharing" width="60" />
+    <img alt="Skoolio Studios" src="https://lh3.googleusercontent.com/drive-viewer/AKGpihb8aFVxZxHMSwecBJSCnWCmlKaHZB5BQ0iMXcuWOpC-mKX49SriJ1G5m6Csje2m-aY8r3D71St-gwgFPpmjHk9v-ZGsdLZ3dRA=s2560" width="60" />
   </a>
 </p>
 <h1 align="center">
